@@ -238,7 +238,7 @@ public class ventana extends javax.swing.JFrame {
         String salida2 = new String(reverse2);
         System.out.println(salida1);
         System.out.println(salida2);
-        jTextField4.setText(salida1 + " " + salida2);   
+        jTextField4.setText(salida1 + " " + salida2 + " _201404318");   
     }
     
     private void regla3(){
